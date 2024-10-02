@@ -1,4 +1,4 @@
-Station Id,Station Name,Station Type,Description,Active,Measuring Device,Record Type,Record Rating,Start Period,End Period
+Station ID,Station Name,Station Type,Description,Active,Measuring Device,Record Type,Record Rating,Start Period,End Period
 9569,BIG SPRINGS CREEK ABV. DEARDEN RANCH,Spring,South of Garrison UT,True,2` Parshall flume,Mean daily discharge in CFS,Unrated,2009,2024
 9572,CLAY SPRING,Spring,South of Garrison UT,True,90 V-notch weir,Mean daily discharge in CFS,Unrated,2009,2024
 9570,EAST MIDDLE DITCH,Stream,"East ditch of Lake Creek South of Garrison, UT",True,3` Parshall flume,Mean daily discharge in CFS,Good,2009,2024
