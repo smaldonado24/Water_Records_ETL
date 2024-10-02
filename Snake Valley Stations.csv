@@ -1,0 +1,12 @@
+Station Id,Station Name,Station Type,Description,Active,Measuring Device,Record Type,Record Rating,Start Period,End Period
+9569,BIG SPRINGS CREEK ABV. DEARDEN RANCH,Spring,South of Garrison UT,True,2` Parshall flume,Mean daily discharge in CFS,Unrated,2009,2024
+9572,CLAY SPRING,Spring,South of Garrison UT,True,90 V-notch weir,Mean daily discharge in CFS,Unrated,2009,2024
+9570,EAST MIDDLE DITCH,Stream,"East ditch of Lake Creek South of Garrison, UT",True,3` Parshall flume,Mean daily discharge in CFS,Good,2009,2024
+9595,FOOTE RESERVOIR SPRING,Spring,NORTHEAST OF GANDY,True,Velocity depth sensor,Mean daily discharge in CFS,Unrated,2010,2024
+9573,KELL SPRING,Spring,South of Gandy UT,True,Ultrasonic flow meter,Mean daily discharge in CFS,Unrated,2009,2024
+10318,LELAND HARRIS WELL,Well,,True,,Daily gage height in FEET,Unrated,2018,2023
+9600,MILLER SPRING,Spring,Northeast of Gandy,True,Ramp Flume,Mean daily discharge in CFS,Unrated,2010,2024
+9574,PIVOT PUMP FROM FOOTE RESERVOIR,Spring,East of Gandy UT,True,,Mean daily discharge in CFS,Unrated,2009,2024
+9599,TWIN SPRINGS (NORTH),Spring,Northeast of Gandy,True,Ramp Flume,Mean daily discharge in CFS,Unrated,2009,2024
+9589,TWIN SPRINGS (SOUTH),Spring,Northeast of Gandy,True,Ramp Flume,Mean daily discharge in CFS,Good,2010,2024
+9571,WEST MIDDLE DITCH,Stream,"West ditch of Lake Creek South of Garrison, UT",True,20 CFS ramp flume,Mean daily discharge in CFS,Good,2009,2024
