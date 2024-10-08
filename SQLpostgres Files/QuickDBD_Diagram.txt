@@ -1,0 +1,42 @@
+Discharge
+----
+Record_ID INT PK
+Station_ID INT FK >- Stations.Station_id
+Station_Name VARCHAR
+Date DATE
+Flow FLOAT
+
+Stations
+----
+Station_ID INT PK
+Station_Name VARCHAR
+Station_Type VARCHAR
+Description VARCHAR
+Active BOOLEAN
+Measuring_Device VARCHAR
+Record_Type VARCHAR
+Record_Rating VARCHAR
+Start_Period INT
+End_Period INT
+
+Locations
+----
+Station_ID INT FK >- Stations.Station_id
+Station_Name VARCHAR
+Latitude FLOAT
+Longitude FLOAT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
