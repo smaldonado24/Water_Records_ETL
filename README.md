@@ -12,5 +12,7 @@ How: Begin with the water_records_etl jupyter notebook to get the station data s
 Ethical Considerations: As we cleaned the discharge data of the untrustworthy data we decided to remove the outliers in only the spring discharge data because there is an expectation that springs are more consistent in their flow data and the outliers could be considered to be incorrect due to measuring device malfunction.  We also did not clean the stream data because this would require more knowledge of weather, topography, and locality to consider cleaning properly.  Without that knowledge it would be unethical to clean that data.
 
 Base URL: https://waterrights.utah.gov/distribution/WaterRecords.asp?system_name=SNAKE%20VALLEY
+
 Station Information and Discharge URL: https://waterrights.utah.gov/cgi-bin/dvrtview.exe?Modinfo=StationView&STATION_ID=9569&RECORD_YEAR=2024 
+
 Station Location URL: https://maps.waterrights.utah.gov/EsriMap/map.asp?layersToAdd=distribution&dist=SNAKE%20VALLEY,9569 
